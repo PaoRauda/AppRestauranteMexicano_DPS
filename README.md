@@ -6,6 +6,6 @@
 - Cesia Aracely Raymundo Peraza RP231877
 
 ### Enlace EXPO:
-- [Link EXPO](https://snack.expo.dev/@paofer/desafio02_dps)
+- [Link EXPO](https://snack.expo.dev/@paofer/desafio2_dps)
 
 ### Enlace Video:
